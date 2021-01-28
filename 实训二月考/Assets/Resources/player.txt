@@ -1,3 +1,0 @@
-PlayerType1_500_3_1
-PlayerType2_300_5_3
-PlayerType3_100_10_2
